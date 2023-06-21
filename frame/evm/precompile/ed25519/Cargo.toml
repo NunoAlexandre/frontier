@@ -17,4 +17,5 @@ default = ["std"]
 std = [
 	# Frontier
 	"fp-evm/std",
+	"ed25519-dalek/std",
 ]

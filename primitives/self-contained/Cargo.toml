@@ -30,4 +30,5 @@ std = [
 ]
 try-runtime = [
 	"sp-runtime/try-runtime",
+	"frame-support/try-runtime",
 ]
