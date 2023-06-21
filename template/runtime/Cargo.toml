@@ -121,4 +121,6 @@ runtime-benchmarks = [
 	"pallet-ethereum/runtime-benchmarks",
 	"pallet-evm/runtime-benchmarks",
 	"pallet-hotfix-sufficients/runtime-benchmarks",
+	"frame-support/runtime-benchmarks",
+	"sp-runtime/runtime-benchmarks",
 ]
